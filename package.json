@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/edubnmrg/autenticacion#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "bcrypt": "^3.0.5",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.2",
+    "mongoose": "^5.4.21",
+    "nodemon": "^1.18.10"
   }
 }
