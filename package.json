@@ -1,0 +1,25 @@
+{
+  "name": "autenticacion",
+  "version": "1.0.0",
+  "description": "autenticacion de usuarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edubnmrg/autenticacion.git"
+  },
+  "keywords": [
+    "aut"
+  ],
+  "author": "eduardo benmergui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edubnmrg/autenticacion/issues"
+  },
+  "homepage": "https://github.com/edubnmrg/autenticacion#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
